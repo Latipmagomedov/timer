@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Gotham Pro', sans-serif;
+}
+
+body {
+  background-color: $dark;
+  color: #fff;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  border-radius: 0;
+  box-shadow: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
